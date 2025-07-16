@@ -1,2 +1,2 @@
 # courtney-l-king.github.io
-portfolio
+this is my personal portfolio!
