@@ -1,7 +1,6 @@
 # courtney l king
 
-
-
+![photo of courtney l king](https://media.licdn.com/dms/image/v2/C5603AQHJE_tjEjyspg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1618329056958?e=2147483647&v=beta&t=eazGwg4wrMW32SG1UZ30HHFNrXySS1oMsy30AA-UKlw)
 
 i'm courtney, and i'm a phd student :woman_student: at michigan technological university! i'm studying the movements and behaviors --- including foraging, predator avoidance, and habitat selection --- of moose on isle royale. i am interested in how the decisions of moose are impacted by ecological interactions and environmental conditions, and how they in-turn influence the forests in which they reside. 
 
