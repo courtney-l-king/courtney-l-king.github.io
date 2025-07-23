@@ -7,3 +7,9 @@ along this journey, i am excited about developing and applying skills in environ
 my research is funded in-part by the datasense nsf-nrt program, which will support lots of collaboration and co-learning relevant to the above themes! in the meantime, i'm hoping to improve skills through online learning opportunities including those offered by the esiil lab at cu boulder.
 
 [check out my linkedin!](https://www.linkedin.com/in/courtney-l-king) 
+
+a sample of my work created during the esiil 2025 data short course:
+
+<embed type="text/html" src="haskell.html" width="600" height="600">
+
+<embed type="text/html" src="isro.html" width="600" height="600">
