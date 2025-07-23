@@ -10,6 +10,6 @@ my research is funded in-part by the datasense nsf-nrt program, which will suppo
 
 a sample of my work created during the esiil 2025 data short course:
 
- <embed type="text/html" src="images/haskell.html" width="300" height="600">
+ <embed type="text/html" src="images/haskell.html" width="600" height="600">
 
- <embed type="text/html" src="images/isro.html" width="300" height="600">
+ <embed type="text/html" src="images/isro.html" width="600" height="600">
