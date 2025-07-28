@@ -20,8 +20,8 @@ a sample of other work created during the esiil 2025 data short course:
 
  <embed type="text/html" src="images/haskell.html" width="600" height="600">
 
- <embed type="text/html" src="images/ann_climate_plot.html" width="600" height="600">
+ <embed type="text/html" src="images/ann_climate_plot.html" width="600" height="400">
 
- <embed type="text/html" src="images/tubarjal_plot.html" width="600" height="600">
+ <embed type="text/html" src="images/tubarjal_plot.html" width="600" height="400">
 
 
