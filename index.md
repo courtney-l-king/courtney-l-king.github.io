@@ -13,7 +13,8 @@ my research is funded in-part by the datasense nsf-nrt program, which will suppo
 quick snapshots into isle royale:
 
  <embed type="text/html" src="images/isro.html" width="600" height="600">
-
+ 
+ <embed type="text/html" src="images/isro_ndvi_plot.html" width="600" height="600">
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 a sample of other work created during the esiil 2025 data short course:
