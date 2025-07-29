@@ -13,8 +13,7 @@ my research is funded in-part by the datasense nsf-nrt program, which will suppo
 quick snapshots into isle royale:
 
  <embed type="text/html" src="images/isro.html" width="600" height="600">
-
- <embed type="text/html" src="images/isro_ndvi_plot.html" width="600" height="600">
+ <embed type="text/html" src="images/isro_ndvi_plot.html" width="600" height="500">
 
 
 based on this plot, it doesn't look like ndvi has changed very much over the past 2+ decades on isle royale! however, I am very interested in accessing and utilizing more spatiotemporally explicit data to understand how -- and where -- the forest health, snow depth, and other environmental characteristics of isle royale differ, and how that relates to moose movements and behavior. 
@@ -24,10 +23,8 @@ based on this plot, it doesn't look like ndvi has changed very much over the pas
 a sample of other work created during the esiil 2025 data short course:
 
  <embed type="text/html" src="images/haskell.html" width="600" height="600">
-
 Annual Climate in Al Jawf Region, Saudi Arabia
- <embed type="text/html" src="images/ann_climate_plot.html" width="600" height="600">
-
- <embed type="text/html" src="images/tubarjal_plot.html" width="600" height="600">
+ <embed type="text/html" src="images/ann_climate_plot.html" width="600" height="500">
+ <embed type="text/html" src="images/tubarjal_plot.html" width="600" height="500">
 
 
