@@ -15,7 +15,6 @@ quick snapshots into isle royale:
  <embed type="text/html" src="images/isro.html" width="600" height="600">
  <embed type="text/html" src="images/isro_ndvi_plot.html" width="600" height="500">
 
-
 based on this plot, it doesn't look like ndvi has changed very much over the past 2+ decades on isle royale! however, I am very interested in accessing and utilizing more spatiotemporally explicit data to understand how -- and where -- the forest health, snow depth, and other environmental characteristics of isle royale differ, and how that relates to moose movements and behavior. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
